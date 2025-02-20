@@ -4,9 +4,9 @@
 
         <div class="me-md-auto text-center text-md-start">
             <div class="copyright">
-                &copy; Copyright 2023 <strong><span>Bethany for SMA Nusa Bangsa</span></strong>. All Rights Reserved <br>
+                &copy; Copyright 2025 <strong><span>Bethany for Yayasan Al-Muhsinin</span></strong>. All Rights Reserved <br>
                 <div class="credits">
-                    Designed by <span>BootstrapMade </span> Powered By. <span>Avriansyah Bahtiar</span>
+                    Designed by <span>BootstrapMade </span> Powered By. <span>Yayasan Al-Muhsinin</span>
                 </div>
             </div>
         </div>

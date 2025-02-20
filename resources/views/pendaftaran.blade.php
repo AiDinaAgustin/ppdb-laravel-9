@@ -112,11 +112,12 @@
                         </div>
                         <div class="col-md-6 mb-3">
                             <div class="form-group">
-                                <label class="form-label">Jurusan</label>
+                                <label class="form-label">Jenjang Pendidikan</label>
                                 <select name="jurusan" class="form-control">
-                                    <option value="ipa">IPA</option>
-                                    <option value="ips">IPS</option>
-                                    <option value="bahasa">Bahasa</option>
+                                    <option value="ra">RA</option>
+                                    <option value="mi">MI</option>
+                                    <option value="mts">MTs</option>
+                                    <option value="ma">MA</option>
                                 </select>
                             </div>
                         </div>
@@ -126,7 +127,7 @@
                                 <select name="jk" class="form-control">
                                     <option value="L">Laki-laki</option>
                                     <option value="P">Perempuan</option>
-                                </select>
+                                </select>   
                             </div>
                         </div>
                         <div class="col-12">

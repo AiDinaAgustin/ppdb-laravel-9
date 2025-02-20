@@ -4,7 +4,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-            <h1>Selamat Datang di SMA Nusa Bangsa</h1>
+            <h1>Selamat Datang di Yayasan Al-Muhsinin</h1>
             <h2>Raih masa depan gemilang dan penuh dengan haparan cerah disini</h2>
             <a href="/daftar" class="btn-get-started scrollto">Daftar Sekarang</a>
         </div>
@@ -22,21 +22,15 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
                         <p>
-                            Sekolah Harapan Bangsa didirikan pada tahun 1995 untuk memenuhi kebutuhan akademik yang semakin
+                            Yayasan Al-Muhsinin didirikan pada tahun 2022 untuk memenuhi kebutuhan akademik yang semakin
                             berkembang di Modernland, yang berada di atas tanah seluas 330 hektar di kawasan metropolitan,
                             Tangerang. Dengan tujuan untuk mendidik murid-murid sebagai harapan bagi bangsa.
                         </p>
                         <p><i>
-                                Diawali saat PT Modernland Realty mengakuisisi Sekolah Ganesha yang berada di Jl. Pulau
-                                Putri Raya Kav 10, Modernland, Tangerang dan menamainya dengan Sekolah Harapan Bangsa, yang
-                                bernaung di bawah YayasanPendidikan Harapan Bangsa. Dengan jumlah awal 100 siswa dan 20 guru
-                                dari kelas satu sampai empat. Kini Sekolah Harapan Bangsa telah menghasilkan ratusan lulusan
-                                di sepanjang perjalanannya.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, similique vel? Obcaecati ea velit nisi illo earum harum, est molestias! Laboriosam, sunt. Beatae quo earum tempore dolorem! Iusto omnis non, adipisci, et deserunt eligendi, provident voluptates quaerat explicabo maxime aperiam in esse. Odit dignissimos veniam minima nesciunt ex dolores incidunt, asperiores doloremque? Atque sed consequuntur iste, dolorem quasi delectus minima deleniti accusantium, neque commodi error voluptas facilis nemo eveniet. Eos ad quae excepturi! Quod fuga eveniet sint magnam nesciunt laboriosam quos doloremque ut magni quae non, eum in doloribus necessitatibus dicta totam blanditiis cum voluptates dolorum fugiat? Incidunt, placeat deleniti.
                             </i></p>
                         <p>
-                            Sekolah Harapan Bangsa didirikan pada tahun 1995 untuk memenuhi kebutuhan akademik yang semakin
-                            berkembang di Modernland, yang berada di atas tanah seluas 330 hektar di kawasan metropolitan,
-                            Tangerang. Dengan tujuan untuk mendidik murid-murid sebagai harapan bagi bangsa.
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique debitis expedita vero ullam nostrum, blanditiis quisquam in suscipit aspernatur officia officiis ex aliquid hic. Maxime cupiditate quo laborum quae asperiores.
                         </p>
                     </div>
                 </div>
@@ -89,7 +83,7 @@
                             <h3>Kenapa Memilih Sekolah Ini?</h3>
 
                             <p>
-                                Lebih dari 1,750 siswa-siswi dengan beragam latar belakang datang ke Sekolah Harapan Bangsa
+                                Lebih dari 1,750 siswa-siswi dengan beragam latar belakang datang ke Yayasan Al-Muhsinin
                                 mencari sebuah lembaga pendidikan formal yang mempunyai pengakuan luar biasa baik secara
                                 prestasi akademik, proses belajar mengajar serta suasana belajar yang menyenangkan, tenaga
                                 pengajar dan staff yang kompeten, kesempatan untuk meraih beasiswa, dan penerapan kurikulum
@@ -162,7 +156,7 @@
                                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon"><i class="bx bxl-dribbble"></i></div>
                                     <h4><a href="">Ruang Kelas Ber-AC</a></h4>
-                                    <p>Di SMA Nusa Bangsa semua kelas sudah ber-AC, nyaman, bersih dan fasilitas lengkap</p>
+                                    <p>Di Yayasan Al-Muhsinin semua kelas sudah ber-AC, nyaman, bersih dan fasilitas lengkap</p>
                                 </div>
                             </div>
 
@@ -222,7 +216,7 @@
                     </div>
                 </div>
 
-                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+                <!-- <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
@@ -308,7 +302,7 @@
                         </div>
                     </div>
 
-                </div>
+                </div> -->
 
             </div>
         </section><!-- End Portfolio Section -->
@@ -419,19 +413,19 @@
                         <div class="section-title">
                             <h2>Kontak</h2>
                             <p>Untuk info lebih lanjut mengenai pendaftaran peserta didik baru, kerjasama atau yang lain nya
-                                bisa menghubungi kontak yang tercantum atau bisa langsung ke sekolah SMA Nusa Bangsa</p>
+                                bisa menghubungi kontak yang tercantum atau bisa langsung ke Yayasan Al-Muhsinin</p>
                         </div>
                     </div>
 
                     <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
                         <iframe style="border:0; width: 100%; height: 270px;"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4057470.0866813553!2d106.33973250299309!3d-6.724243758367419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708d44b5053313%3A0xf40a52889ebde16a!2sSMK%20Nusa%20Bangsa!5e0!3m2!1sid!2sid!4v1682912942151!5m2!1sid!2sid"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.24871986927!2d107.02045559999999!3d-6.9799512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6845c56cd2c123%3A0x30a95b63aca6db68!2sPondok%20Pesantren%20Al%20Muhsinin%20Gegerbitung!5e0!3m2!1sid!2sid!4v1740087700089!5m2!1sid!2sid"
                             frameborder="0" allowfullscreen></iframe>
                         <div class="info mt-4">
                             <i class="icofont-google-map"></i>
                             <h4>Lokasi:</h4>
-                            <p>SMA Nusa Bangsa</p>
-                            <p>Jl. Teguhan, Wringin Jajar, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567</p>
+                            <p>Yayasan Al-Muhsinin</p>
+                            <p>Kp. Munjul Rt.02/06, Gegerbitung, Kec. Gegerbitung, Kabupaten Sukabumi, Jawa Barat 43197</p>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 mt-4">
@@ -445,7 +439,7 @@
                                 <div class="info w-100 mt-4">
                                     <i class="icofont-phone"></i>
                                     <h4>Call:</h4>
-                                    <p>628 12 7421 9874</p>
+                                    <p>0858-4628-8997</p>
                                 </div>
                             </div>
                         </div>
