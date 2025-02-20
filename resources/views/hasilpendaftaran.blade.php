@@ -30,7 +30,7 @@
                                     <td>{{ $siswa->siswacalon->name }}</td>
                                     <td>{{ $siswa->siswacalon->nisn }}</td>
                                     <td>{{ $siswa->siswacalon->asal_sekolah }}</td>
-                                    <td>{{ $siswa->hasil }}</td>
+                                    <td>{{ $siswa->skor }}</td>
                                     <td>
                                         @if ($siswa->status == 'Diterima')
                                             <span class="btn btn-info btn-sm">{{ $siswa->status }}</span>

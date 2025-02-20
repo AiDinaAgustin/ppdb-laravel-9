@@ -28,7 +28,7 @@
                                 <th>Status</th>
                             </tr>
                         </thead>
-                        @foreach ($hasil as $h)
+                        @foreach ($skor as $h)
                             <tr>
                                 <td>{{ $loop->iteration }}</td>
                                 <td>{{ $h->siswacalon->name }}</td>

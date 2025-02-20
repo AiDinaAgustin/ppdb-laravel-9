@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Hasilspk extends Model
 {
     use HasFactory;
-    protected $table = 'hasil';
+    protected $table = 'pendaftarans';
     protected $guarded = ['id'];
 
     public function siswacalon()

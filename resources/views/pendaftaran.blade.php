@@ -50,7 +50,6 @@
                 <h1>Biodata Calon Siswa</h1>
                 <hr>
                 <form action="/daftar" method="POST">
-                    @method('post')
                     @csrf
                     <div class="row">
                         <div class="col-12 mb-3">

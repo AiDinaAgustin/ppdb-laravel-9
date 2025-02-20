@@ -15,7 +15,7 @@ class HasilSAWController extends Controller
     public function index()
     {
         return view('admin.rank', [
-            'hasil' => Hasilspk::orderByDesc('hasil')->get()
+            'skor' => Hasilspk::orderByDesc('skor')->get()
         ]);
     }
     public function normalisasi()
